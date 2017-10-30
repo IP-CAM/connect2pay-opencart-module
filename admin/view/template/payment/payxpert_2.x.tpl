@@ -89,7 +89,7 @@
 <?php } ?>
         </div>
         <div class="form-group<?php if (isset($payxpert_merchant_notifications_to_error)) { ?> has-error<?php } ?>">
-         <label class="col-sm-4 col-md-3 col-lg-2 control-label" for="payxpert_merchant_notifications_to"><span data-toggle="tooltip" title="<?php echo $entry_merchant_notifications_to_help; ?>"><?php echo $entry_merchant_notifications_to; ?></span></label>
+         <label class="col-sm-4 col-md-3 col-lg-2 control-label" for="payxpert_originator"><span data-toggle="tooltip" title="<?php echo $entry_merchant_notifications_to_help; ?>"><?php echo $entry_merchant_notifications_to; ?></span></label>
          <div class="col-sm-4 col-md-2">
            <input type="text" id="payxpert_merchant_notifications_to" name="payxpert_merchant_notifications_to" value="<?php echo $payxpert_merchant_notifications_to; ?>" class="form-control" />
          </div>
