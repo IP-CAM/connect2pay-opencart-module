@@ -1,7 +1,5 @@
-//-----------------------------------------------------------------
-// OpenCart PayXpert Payment Module
-// Version for Opencart >= 2.3
-//------------------------------------------------------------------
+# OpenCart PayXpert Payment Module
+### Version for Opencart >= 2.3
 
 PLEASE NOTE: THIS VERSION IS NOT COMPATIBLE WITH OPENCART PRIOR TO 2.3.
 This version only works with Opencart 2.3.x to 3.0.x
@@ -13,14 +11,12 @@ UPDATE oc_setting SET code = 'payment_payxpert' WHERE code = 'payxpert';
 The author of this plugin can NEVER be held responsible for this software.
 There is no warranty what so ever. You accept this by using this software.
 
-Changelog
-=========
-1.0 - Initial Release
-1.1 - Add compatibility with 2.0.x, 2.1.x and 2.2.x
-2.0 - Add compatibility with 2.3.x and 3.0.x. Drop compatibility with prior versions (use v1.1 of the module).
+## Changelog
+* 1.0 - Initial Release
+* 1.1 - Add compatibility with 2.0.x, 2.1.x and 2.2.x
+* 2.0 - Add compatibility with 2.3.x and 3.0.x. Drop compatibility with prior versions (use v1.1 of the module).
 
-Installation
-============
+## Installation
 1. Unzip.
 
 2. Upload the 'admin' and 'catalog' folders to your opencart installation folder. No files will be overwritten, only added.
@@ -38,7 +34,5 @@ Installation
 8. Save your settings and you'll be ready to start using the module.
 
    
-Support
-============
-
+## Support
 Please visit the PayXpert website (http://www.payxpert.com) for our support contact details.
