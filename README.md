@@ -1,14 +1,12 @@
 # OpenCart PayXpert Payment Module
-### Version for Opencart >= 2.3
+### Version for Opencart 1.4.7 to 2.2.x
 
-PLEASE NOTE: THIS VERSION IS NOT COMPATIBLE WITH OPENCART PRIOR TO 2.3.
-This version only works with Opencart 2.3.x to 3.0.x
+PLEASE NOTE: THIS VERSION IS NOT COMPATIBLE WITH OPENCART PRIOR TO 1.4.7.
 
-Also note that upgrading to a version >= 3.0 from a version prior to 3.0 will require to set the module settings again.
-As an alternative the following SQL request could be run on the database:
-UPDATE oc_setting SET code = 'payment_payxpert' WHERE code = 'payxpert';
+This version only works with Opencart 1.4.7 to 2.2.x
 
 The author of this plugin can NEVER be held responsible for this software.
+
 There is no warranty what so ever. You accept this by using this software.
 
 ## Changelog
